@@ -1,0 +1,15 @@
+package ch01;
+
+import java.util.*;
+
+public class Solution {
+	public static void main(String[] ags) {
+
+		Scanner sc = new Scanner(System.in);
+
+		String A = sc.next();
+		if (A.equals("joonas") == true) {
+			System.out.println(A + "??!");
+		}
+	}
+}

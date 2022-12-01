@@ -1,0 +1,17 @@
+package ch01;
+
+public class Solution {
+	 public int[] solution(int n) {
+	        
+	        int[] answers = {};
+	        int[] answer = {};
+	        
+	        for(int i=0; i<=answer.length; i++){
+	            if( n % 2 != 0){
+	            	answers = answer;
+	            }
+	        }
+	        
+	        return answers;
+	    }
+}
